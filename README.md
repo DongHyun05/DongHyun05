@@ -27,8 +27,6 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
- 
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyun05&layout=compact)](https://github.com/DongHyun05/DongHyun05)
